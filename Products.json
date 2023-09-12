@@ -1,0 +1,27 @@
+[
+	{
+		"title": "Cuphead",
+		"description": "Cuphead es un videojuego perteneciente al género de corre y dispara, publicado por la empresa canadiense StudioMDHR.",
+		"code": "hJ95fg0",
+		"price": 5300,
+		"status": true,
+		"stock": 5,
+		"category": "Shoot and Run",
+		"thumbnails": [
+			"thumbnails"
+		]
+	},
+	{
+		"title": "Call of duty",
+		"description": "Call of Duty: Modern Warfare II es un videojuego de disparos en primera persona desarrollado por Infinity Ward y publicado por Activision.",
+		"code": "cDghiT75l",
+		"price": "8000",
+		"status": true,
+		"stock": "10",
+		"category": "Disparos en primera persona",
+		"thumbnails": [
+			"20235223475298_1.jpg",
+			"call_of_duty_modern_warfare_2-5118565.jpg"
+		]
+	}
+]
